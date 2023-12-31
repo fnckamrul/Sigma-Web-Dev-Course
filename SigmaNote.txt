@@ -1,0 +1,32 @@
+Tutorial #1
+
+#How website work?
+There are 3 types of website work
+1.Client
+2.SERVER
+3.Browser
+
+#Quick Html Examples
+Ctrl+ ! and next press Tab button
+<====================================>
+
+Tutorial #2
+GitHub new repository on the command line
+echo "# Sigma-Web-Dev-Course" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/fnckamrul/Sigma-Web-Dev-Course.git
+git push -u origin main
+
+push an existing repository from the command line
+git remote add origin https://github.com/fnckamrul/Sigma-Web-Dev-Course.git
+git branch -M main
+git push -u origin main
+
+vs code
+File>Open Folder>Sigma-Web-Dev-Course
+next--
+Terminal powershall change git bash before install git bash
+
