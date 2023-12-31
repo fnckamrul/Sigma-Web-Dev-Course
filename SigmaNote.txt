@@ -40,3 +40,7 @@ Terminal my new code push command
 git add .
 git commit -m "learned github"
 git push
+
+github web site to my local computer bring code command
+
+git pull
