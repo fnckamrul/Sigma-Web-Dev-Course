@@ -11,6 +11,11 @@ Ctrl+ ! and next press Tab button
 <====================================>
 
 Tutorial #2
+vs code
+File>Open Folder>Sigma-Web-Dev-Course
+next--
+Terminal powershall change git bash before install git bash
+
 GitHub new repository on the command line
 echo "# Sigma-Web-Dev-Course" >> README.md
 git init
@@ -25,8 +30,13 @@ git remote add origin https://github.com/fnckamrul/Sigma-Web-Dev-Course.git
 git branch -M main
 git push -u origin main
 
-vs code
-File>Open Folder>Sigma-Web-Dev-Course
-next--
-Terminal powershall change git bash before install git bash
 
+
+Old Code Editing Preview
+git diff
+q-back
+
+Terminal my new code push command
+git add .
+git commit -m "learned github"
+git push
