@@ -1,0 +1,47 @@
+body{
+    background-color:#14134d;
+    color:white;
+}
+
+img{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    
+}
+.learnflex{
+    background-color: rgb(8, 43, 3);
+    width: 50rem;
+    border: 1px solid rgb(44, 44, 44);
+    display:flex;
+    padding:5rem;
+   
+}
+table{
+    border: 2px solid black;
+}
+th{
+    border: 2px solid rgb(112, 93, 93);
+
+}
+td{
+    border: 2px solid rgb(202, 44, 44);
+}
+
+ul li{
+    list-style-type: none;
+    display: inline;
+    padding:40px;
+    font-weight: bold;
+    font-family: sans-serif;
+
+   
+}
+
+.statusBar{
+    background-color: #01010a;
+    height: 50px;
+    text-align: center;
+    padding-top: 5px;
+}

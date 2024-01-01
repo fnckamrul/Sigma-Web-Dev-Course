@@ -1,4 +1,4 @@
-Tutorial #1
+<==================Tutorial #1==============>
 
 #How website work?
 There are 3 types of website work
@@ -8,9 +8,9 @@ There are 3 types of website work
 
 #Quick Html Examples
 Ctrl+ ! and next press Tab button
-<====================================>
+<=================Tutorial #2===================>
 
-Tutorial #2
+
 vs code
 File>Open Folder>Sigma-Web-Dev-Course
 next--
@@ -44,3 +44,63 @@ git push
 github web site to my local computer bring code command
 
 git pull
+
+----------
+VS CODE EXTENSION
+Vs code icons
+Live Preview
+Jellyfish theme
+github theme
+material theme
+Es7 theme
+--------------
+Html file to css & javascript file link shortcut
+
+link:css
+script:src
+
+<======================Tutorial #3========================>
+
+
+Two types of html tag
+self closing tag
+pearing tag
+
+<======================Tutorial 4==========================>
+
+Vs shortcut
+
+Vs code duplicate shortcut
+Shift+alt+down arrow key
+
+same sentence write another tag
+alt press and mouse to select
+
+dammy text for shortcut-
+lorem
+lorem7
+
+***Vs end closing another closing tag write
+alt press and mouse to select
+shitf+right arrow key to selcet 
+ctrl+x
+and press END button
+ctrl+v
+<=====================Tutorial #5==========================>
+
+Tutorial #5
+windows snipping tools shortcut
+windows+shitf+s
+
+<====================Tutorial #6=============================>
+How to generate lighthouse  Report?
+Browser right button click and inspect selcet.
+Meta descrption and keywords
+web.dev
+
+<==============  ====Tutorial #7======================>
+
+Forms and input tag in html
+
+<==============  ====Tutorial #======================>
+inline & Block Elements in Html
